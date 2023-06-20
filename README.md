@@ -1,4 +1,4 @@
-Project from the first semester of a graduate-level course in numerical analysis. Code written for the purpose of constructing an interpolating polynomial to approximate a surface.
+Project from the first semester of a graduate-level numerical analysis course. Code written for the purpose of constructing an interpolating polynomial to approximate a surface.
 
 Author: Luke Vaughan
 
