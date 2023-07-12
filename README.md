@@ -1,4 +1,4 @@
-Project from the first semester of a graduate-level numerical analysis course. Python code written for the purpose of constructing an interpolating polynomial to approximate a surface.
+Project (2/2) from the first semester of a graduate-level numerical analysis course. Python code written for the purpose of constructing an interpolating polynomial to approximate a surface.
 
 Author: Luke Vaughan
 
